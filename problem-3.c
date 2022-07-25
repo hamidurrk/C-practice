@@ -18,5 +18,3 @@ int main() {
     puts(str);
     return 0;
 }
-
-//https://www.csinfo360.com/2020/09/check-if-string-contains-only-digits.html
